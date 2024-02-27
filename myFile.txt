@@ -1,0 +1,11 @@
+e
+daaa
+ddd
+f
+f
+f
+f
+
+e : aaa
+daaa : aaaa
+ddd : aaaaa
